@@ -25,9 +25,11 @@ imbalance between pixels in Automated image segmentation tasks
 
 ### <p align="center">Achievements<p/>
 Best Student Paper Award<br/>
+
 A Deep Learning-based Cropping Technique
 to Improve Segmentation of Prostate’s
 Peripheral Zone<br/>
+
 ***21st IEEE International Conference on
 BioInformatics and BioEngineering,
 October 25-27, 2021***
