@@ -35,5 +35,4 @@ Peripheral Zone<br/>
 BioInformatics and BioEngineering,
 October 25-27, 2021***
 ## 
-#### Note
 ##### Thank you for visiting my profile<br/> Have a nice day! :wink:
