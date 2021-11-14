@@ -6,19 +6,19 @@
 Foundation Of Research and Technology (FORTH)
 Data analysis and machine learning engineering in computer
 vision
- July 2020 – Present 1⁄2 Ioannina,Greece
-• Data exploration through exploratory data analysis and descriptive
+***July 2020 – Present 1⁄2 Ioannina,Greece***
+- Data exploration through exploratory data analysis and descriptive
 statistics
-• Implementation of deep segmentation networks and pipelines for the
+- Implementation of deep segmentation networks and pipelines for the
 segmentation of the prostate gland in MRI images and deep
 classification networks for cancer identification
-• Application of Spectral Clustering and several Unsupervised learning
+- Application of Spectral Clustering and several Unsupervised learning
 algorithms for the segmentation of the peripheral zone of the prostate
-• Radiomics classification converting image information into tabular
+- Radiomics classification converting image information into tabular
 data and performing deep classification networks for diagnosis and
 evaluation
-• Experience in the implementation of a whole machine learning
+- Experience in the implementation of a whole machine learning
 pipeline, from data curation, preprocessing, networks deployment to
 evaluation and presentation of the results
-• Implementation of a smart cropping pipeline in order to tackle class
+- Implementation of a smart cropping pipeline in order to tackle class
 imbalance between pixels in Automated image segmentation tasks
