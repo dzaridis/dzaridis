@@ -2,7 +2,8 @@
 :books: B.Sc/M.Eng Electrical Engineering and Computer Science, Democritus university of Thrace DUTH <br/>
 :email: dimzaridis@gmail.com <br/>
 :desktop_computer: Open for any kind of collaboration in Computer vision (segmentation & classification) tasks or any other machine learning task <br/>
-### <p align="center">Short Experience<p/>
+## <p align="center">Short Bio<p/>
+### Experience
 Foundation Of Research and Technology (FORTH)<br/>
 Data analysis and machine learning engineering in computer
 vision<br/>
@@ -23,7 +24,7 @@ evaluation and presentation of the results
 - Implementation of a smart cropping pipeline in order to tackle class
 imbalance between pixels in Automated image segmentation tasks
 
-### <p align="center">Achievements<p/>
+### Achievements
 Best Student Paper Award<br/>
 
 A Deep Learning-based Cropping Technique
