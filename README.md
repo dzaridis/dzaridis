@@ -23,7 +23,7 @@ evaluation and presentation of the results
 - Implementation of a smart cropping pipeline in order to tackle class
 imbalance between pixels in Automated image segmentation tasks
 
-#### <p align="center">Achievements<p/>
+### <p align="center">Achievements<p/>
 Best Student Paper Award<br/>
 A Deep Learning-based Cropping Technique
 to Improve Segmentation of Prostate’s
