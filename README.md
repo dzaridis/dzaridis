@@ -5,8 +5,8 @@
 ### <p align="center">Short Experience<p/>
 Foundation Of Research and Technology (FORTH)
 Data analysis and machine learning engineering in computer
-vision
-***July 2020 – Present 1⁄2 Ioannina,Greece***
+vision<br/>
+***July 2020 – Present  Ioannina,Greece***<br/>
 - Data exploration through exploratory data analysis and descriptive
 statistics
 - Implementation of deep segmentation networks and pipelines for the
