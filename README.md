@@ -5,7 +5,7 @@
 ## <p align="center">Short Bio<p/>
 ### Experience
 Foundation Of Research and Technology (FORTH)<br/>
-[ProCAncer-AI european project](https://www.procancer-i.eu/)
+[ProCAncer-AI european project](https://www.procancer-i.eu/) <br/>
 Data analysis and machine learning engineering in computer
 vision<br/>
 ***July 2020 – Present  Ioannina,Greece***<br/>
