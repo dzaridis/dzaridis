@@ -7,7 +7,7 @@
 ### Experience
 Foundation Of Research and Technology (FORTH)<br/>
 [ProCAncer-AI european project](https://www.procancer-i.eu/) <br/>
-Data analysis and machine learning engineering in computer
+Deep and Machine Learning engineering in computer
 vision<br/>
 ***July 2020 – Present  Ioannina,Greece***<br/>
 - Data exploration through exploratory data analysis and descriptive
