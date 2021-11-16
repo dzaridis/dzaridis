@@ -5,6 +5,7 @@
 ## <p align="center">Short Bio<p/>
 ### Experience
 Foundation Of Research and Technology (FORTH)<br/>
+[ProCAncer-AI european project](https://www.procancer-i.eu/)
 Data analysis and machine learning engineering in computer
 vision<br/>
 ***July 2020 – Present  Ioannina,Greece***<br/>
@@ -25,7 +26,7 @@ evaluation and presentation of the results
 imbalance between pixels in Automated image segmentation tasks
 
 ### Achievements
-Best Student Paper Award<br/>
+[Best Student Paper Award](https://www.procancer-i.eu/news/best-student-paper-award-in-the-21st-ieee-international-conference-on-bioinformatics-and-bioengineering/)<br/>
 
 A Deep Learning-based Cropping Technique
 to Improve Segmentation of Prostate’s
