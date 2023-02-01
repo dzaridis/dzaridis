@@ -1,6 +1,5 @@
 :slightly_smiling_face: Hello, my name is Dimitris (James) Zaridis <br/>
 :books: B.Sc/M.Eng Electrical Engineering and Computer Science, Democritus university of Thrace DUTH <br/>
-:classical_building: PhD Candidate on "Big data in healthcare", National Technical University of Athens (N.T.U.A)<br/>
 :email: dimzaridis@gmail.com <br/>
 :desktop_computer: Open for any kind of collaboration in Computer vision (segmentation & classification) tasks or any other machine learning task <br/>
 ## <p align="center">Short Bio<p/>
